@@ -9,7 +9,7 @@ Tirage au chapeau d'un secret santa, en tenant compte des exclusions potentielle
 
 # Instructions
 
-## 1. Download the repositorie
+## 1. Telechargez le repertoire (repository)
 
 ## 2. Modifiez le fichier de configuration
 
@@ -23,7 +23,7 @@ Dans ce dernier, vous devez indiquer:
 
 ## 3. Testez le script
 
-## 4. Ouvrz le fichier 'send-letters.py'
+## 4. Ouvrez le fichier 'send-letters.py'
 
 
 This will read the configuration file and perform a "dry run" of the various
