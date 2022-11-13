@@ -40,6 +40,7 @@ santas = [
     Santa("""Froppy""","""joaquim.grimaud@gmail.com""","""Comme dans "Oni, thunder god's tale", la série Netflix" """),
     Santa("""Toonuki""","""joaquim.grimaud@gmail.com""",""" "Pinocchio". Pas forcément le personnage, l'univers du conte en général."""),
     Santa("""Raven""","""joaquim.grimaud@gmail.com""","""patin à roulettes"""),
+    Santa("""Rødkløver""","""joaquim.grimaud@gmail.com""","""Mon secret santa et moi dans un décor hivernal"""),
 ]
 
 ################################################################################
