@@ -32,5 +32,5 @@ as specified by the `record_file` setting in `config.py` (by default
 it is `secret-santa-email-record.txt`).
 
 
-## 5. ùenvoyez les messages privés via la messagerie du Forum Dessiné
+## 5. Envoyez les messages privés via la messagerie du Forum Dessiné
 copiez-collez les paragraphes dans le .txt ainsi généré. Envoyez les à chaque participantes via la messagerie interne du Forum Dessiné
